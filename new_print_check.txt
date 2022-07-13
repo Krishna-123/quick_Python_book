@@ -1,0 +1,2 @@
+a b c
+can use the print function to directly write to a fil
